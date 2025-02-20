@@ -5,6 +5,5 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: "https://sayvalery.github.io",
-  base: "/",
   integrations: [mdx(), sitemap(), tailwind()],
 });
