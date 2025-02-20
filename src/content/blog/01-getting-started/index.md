@@ -14,12 +14,12 @@ I had an ESP32, a small `128x64` screen, a few buttons, and the desire to make s
 
 ### Key Requirements for Version 1
 
-1. **Minimal controls** – nothing unnecessary, just what is required.
-2. **Clean interface** – focus on content, no visual clutter.
-3. **Invisible UI elements** – everything should look as natural as possible.
-4. **Endless process** – words should continuously cycle without extra screens.
-5. **No statistics** – no tracking of errors or progress in the first version.
-6. **Local storage** – no cloud services or synchronization at the start.
+- **Minimal controls** – nothing unnecessary, just what is required.
+- **Clean interface** – focus on content, no visual clutter.
+- **Invisible UI elements** – everything should look as natural as possible.
+- **Endless process** – words should continuously cycle without extra screens.
+- **No statistics** – no tracking of errors or progress in the first version.
+- **Local storage** – no cloud services or synchronization at the start.
 
 ## Designing the Interface
 
